@@ -1,7 +1,7 @@
 Package:fcScan
 Type: Package
 Title: fcScan for detecting clusters of coordinates with user defined options
-Version: 1.19.0
+Version: 1.20.0
 biocViews: GenomeAnnotation, Clustering
 Authors@R: c(
     person("Abdullah", "El-Kurdi", email="ak161@aub.edu.lb", role = c("aut")),
